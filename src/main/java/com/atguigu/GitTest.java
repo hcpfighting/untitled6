@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("2");
         System.out.println("3.1");
         System.out.println("4 master");
+        System.out.println("4 host");
     }
 }
