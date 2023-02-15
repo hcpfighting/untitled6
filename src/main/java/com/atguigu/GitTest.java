@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("4 master");
         System.out.println("4 host");
         System.out.println("本地该1");
+        System.out.println("远程改1");
     }
 }
